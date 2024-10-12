@@ -1,0 +1,7 @@
+{
+  "name": "angular-android-barcode",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
